@@ -1,0 +1,4 @@
+http://feeds.reuters.com/reuters/topNews
+http://bbc.co.uk/rss?&feed=world
+http://feeds.feedburner.com/ndtvnews-top-stories
+

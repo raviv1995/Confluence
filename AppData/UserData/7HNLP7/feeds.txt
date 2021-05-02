@@ -1,0 +1,3 @@
+http://feeds.bbci.co.uk/news/world/rss.xml
+http://www.aljazeera.com/xml/rss/all.xml
+http://feeds.reuters.com/reuters/INworldNews?format=xml

@@ -1,0 +1,5 @@
+AppData/feeds/bbc.xml
+AppData/feeds/cnn.rss
+AppData/feeds/aljazeera.xml
+AppData/feeds/reuters.xml
+AppData/feeds/toi.rss

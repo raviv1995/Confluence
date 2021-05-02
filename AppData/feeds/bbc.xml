@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - World</title>  
+    <link>http://www.bbc.co.uk/news/world</link>  
+    <description>The latest stories from the World section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Sun, 10 Apr 2016 04:32:57 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - World</title>  
+      <link>http://www.bbc.co.uk/news/world</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/world/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>Kerala temple fire leaves 100 dead</title>  
+      <description>The death toll rises to more than 100 after fireworks sparked a blaze at Puttingal temple in the Indian state of Kerala, police say.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-india-36008741#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-india-36008741</guid>  
+      <pubDate>Sun, 10 Apr 2016 05:13:22 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Suspect 'says he is Brussels man in hat'</title>  
+      <description>Belgian prosecutors say a suspect has admitted being the "man in the hat" seen with the suicide bombers who attacked a Brussels airport.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-36005709#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-36005709</guid>  
+      <pubDate>Sat, 09 Apr 2016 19:19:37 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/4CC7/production/_89155691_breaking_image_large-3.png"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/73D7/production/_89155692_breaking_image_large-3.png"/> 
+    </item>  
+    <item> 
+      <title>PM releases tax returns data amid row</title>  
+      <description>David Cameron reveals his earnings and taxes in an unprecedented move by a UK prime minister, after his father was mentioned in the leaked Panama Papers.</description>  
+      <link>http://www.bbc.co.uk/news/uk-politics-36007718#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-36007718</guid>  
+      <pubDate>Sun, 10 Apr 2016 04:59:21 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Philippines clash kills 18 soldiers</title>  
+      <description>The Philippines military says 18 soldiers have been killed in fierce fighting with Islamist militants in the south of the country.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-36008645#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-36008645</guid>  
+      <pubDate>Sun, 10 Apr 2016 05:18:53 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Bernie Sanders wins Wyoming contest</title>  
+      <description>Bernie Sanders wins the latest stage in the battle for the Democratic nomination in the US presidential election by securing victory in Wyoming.</description>  
+      <link>http://www.bbc.co.uk/news/election-us-2016-36005198#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/election-us-2016-36005198</guid>  
+      <pubDate>Sat, 09 Apr 2016 22:17:14 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>US Navy rescues sailors from island</title>  
+      <description>Three sailors are rescued from an uninhabited Pacific island by the US Navy after spelling out "help" with palm fronds.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-36007545#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-36007545</guid>  
+      <pubDate>Sat, 09 Apr 2016 20:55:19 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Three dead in attack ahead of Peru poll</title>  
+      <description>Suspected leftist rebels in Peru have killed three people in an attack ahead of Sunday's presidential election, the military says</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-36008526#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-36008526</guid>  
+      <pubDate>Sun, 10 Apr 2016 01:24:24 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>'No end date' for Kabul power-sharing</title>  
+      <description>There is no fixed date for an end to the power-sharing deal between rival Afghan leaders, says US Secretary of State John Kerry during a visit to Kabul.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-36007986#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-36007986</guid>  
+      <pubDate>Sat, 09 Apr 2016 22:55:43 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Egypt denies Italian request in probe</title>  
+      <description>Egypt rejects Italy's request for phone records relating to the death of Italian student Giulio Regeni in Cairo earlier this year.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-36007876#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-36007876</guid>  
+      <pubDate>Sat, 09 Apr 2016 21:01:16 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>'First migrant deaths' since Turkey deal</title>  
+      <description>Four women and a child die in the Aegean Sea in what are thought to be the first deaths in the area since a new operation to deter migrants began.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-36006489#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-36006489</guid>  
+      <pubDate>Sat, 09 Apr 2016 15:23:34 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>US issues warning over Turkey travel</title>  
+      <description>The US warns its citizens of "credible threats" to tourist areas in Turkey, particularly in Istanbul and the resort city of Antalya.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-36006250#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-36006250</guid>  
+      <pubDate>Sat, 09 Apr 2016 14:14:28 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Yemen soldiers 'killed in ambush'</title>  
+      <description>At least 15 soldiers loyal to Yemen's government are reportedly ambushed and killed, with al-Qaeda denying official claims that it was responsible.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-36005607#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-36005607</guid>  
+      <pubDate>Sat, 09 Apr 2016 12:30:56 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Man rescued from cliff after proposing</title>  
+      <description>A US man's romantic marriage proposal from a steep cliff face in California hits the rocks after he gets stuck and has to be rescued.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-35995122#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-35995122</guid>  
+      <pubDate>Sat, 09 Apr 2016 10:44:44 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Romania sells ex-dictator's luxuries</title>  
+      <description>Romania sells off more luxuries from the vast collection of communist dictator Nicolae Ceausescu and his wife, executed in 1989.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-35999167#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-35999167</guid>  
+      <pubDate>Fri, 08 Apr 2016 17:25:45 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: 'He just disappeared and joined IS'</title>  
+      <description>A relative of one of the Brussels bombing suspects says her nephew "just disappeared" and later told his family that he had left to join the so-called Islamic State.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-36008659#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-36008659</guid>  
+      <pubDate>Sun, 10 Apr 2016 01:02:11 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: Video shows Belgium suspect arrest</title>  
+      <description>Amateur video shows the moment a terror suspect, believed to be Mohamed Abrini, was arrested in Brussels on Friday.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-35999700#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-35999700</guid>  
+      <pubDate>Fri, 08 Apr 2016 19:53:20 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: Bus plunges into river in Peru</title>  
+      <description>At least 23 people have been killed and 32 injured after a bus plunged into a river in south-eastern Peru.</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-36004836#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-36004836</guid>  
+      <pubDate>Sat, 09 Apr 2016 09:38:51 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/13FFB/production/_89151918_89151617.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1670B/production/_89151919_89151617.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Recreating prisoners' epic escape</title>  
+      <description>A photographer has recreated the 1,400-mile journey his grandfather and great uncle took after they escaped from a prisoner-of-war camp in 1945.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-36000111#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-36000111</guid>  
+      <pubDate>Fri, 08 Apr 2016 23:06:59 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/7B9C/production/_89144613_89144605.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/A2AC/production/_89144614_89144605.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Boy sealed in lorry rescued by texting</title>  
+      <description>A seven-year-old boy from Afghanistan was rescued from a sealed lorry on a British motorway after texting someone in the US for help.</description>  
+      <link>http://www.bbc.co.uk/news/uk-36002425#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-36002425</guid>  
+      <pubDate>Sat, 09 Apr 2016 03:38:49 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: 'I didn't know if he was going to kill me'</title>  
+      <description>Alicia Kozakiewicz was 13 years old when she was kidnapped by a man she had met online- she told Victoria Derbyshire presenter Joanna Gosling her story.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-35997930#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-35997930</guid>  
+      <pubDate>Fri, 08 Apr 2016 11:41:38 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/4DB5/production/_89139891_alici-13-624.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/74C5/production/_89139892_alici-13-624.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Myanmar prisoners to be released</title>  
+      <description>Dozens of students in Myanmar who have been awaiting trial have been set free as the new government begins to release all remaining political prisoners.</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-35994773#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-35994773</guid>  
+      <pubDate>Fri, 08 Apr 2016 10:35:59 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/3AF5/production/_89139051_89135346.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/6205/production/_89139052_89135346.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: US firm sets 'mattress dominoes' record</title>  
+      <description>More than 1,000 workers and mattresses set a new world record for "largest human mattress dominoes", according to Guinness World Records.</description>  
+      <link>http://www.bbc.co.uk/news/world-us-canada-36002767#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-us-canada-36002767</guid>  
+      <pubDate>Fri, 08 Apr 2016 22:54:36 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>The black people 'erased from history'</title>  
+      <description>The black people afraid their past is being erased</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35981727#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35981727</guid>  
+      <pubDate>Sat, 09 Apr 2016 23:01:05 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Missing in Chile: What happened to Boris Weisfeiler?</title>  
+      <description>Searching for a US hiker who went missing three decades ago</description>  
+      <link>http://www.bbc.co.uk/news/world-latin-america-35980852#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-latin-america-35980852</guid>  
+      <pubDate>Sat, 09 Apr 2016 23:36:16 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>The Indian woman who hunts the witch hunters</title>  
+      <description>The Indian woman who hunts witch hunters</description>  
+      <link>http://www.bbc.co.uk/news/world-asia-india-35975360#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-asia-india-35975360</guid>  
+      <pubDate>Sat, 09 Apr 2016 23:40:34 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>The end of the Spanish siesta?</title>  
+      <description>Why Spain no longer wants an afternoon nap</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35995972#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35995972</guid>  
+      <pubDate>Fri, 08 Apr 2016 23:25:43 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Sudan's Bashir in defiant form on tour of Darfur region</title>  
+      <description>Sudan's president tours Darfur ahead of vote</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-36001758#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-36001758</guid>  
+      <pubDate>Sat, 09 Apr 2016 00:37:18 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/17331/production/_89152059_bashir.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1789/production/_89152060_bashir.jpg"/> 
+    </item>  
+    <item> 
+      <title>Quirky Pakistan crooner unlikely sensation</title>  
+      <description>Pakistan's unlikely internet star, Taher Shah</description>  
+      <link>http://www.bbc.co.uk/news/blogs-trending-36004998#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/blogs-trending-36004998</guid>  
+      <pubDate>Sat, 09 Apr 2016 10:29:14 GMT</pubDate> 
+    </item> 
+  </channel> 
+</rss>
